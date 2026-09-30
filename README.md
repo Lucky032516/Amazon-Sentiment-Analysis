@@ -3,7 +3,7 @@
 ## Problem Statement
 
 Customer reviews contain valuable information about people's opinions and experiences with products. Analyzing a large number of reviews manually can be difficult and time-consuming. Sentiment Analysis helps identify the overall sentiment expressed in customer reviews.
-![Amazon Sentiment Analysis]([sentimental analysis.png](https://github.com/Lucky032516/Amazon-Sentiment-Analysis/blob/main/Sentimental%20Analysis.png))
+(https://github.com/Lucky032516/Amazon-Sentiment-Analysis/blob/main/Sentimental%20Analysis.png))
 ## Project Overview
 
 The aim of this project is to analyze Amazon customer reviews and classify them based on their sentiment. Natural Language Processing (NLP) and Machine Learning techniques are used to preprocess the review text, extract useful features, and predict the sentiment of the reviews.
